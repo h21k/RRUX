@@ -26,3 +26,6 @@ Structure:<br>
 4. `Linear Mixed Effects Model Analysis` (primary and auxiluiary model analysis)<br>
 5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)<br>
 6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)<br>
+
+The System used and evaluated in this study can be found here: [RobotReviewer User Study](https://github.com/h21k/robotreviewer3/tree/ux)
+
