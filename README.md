@@ -1,7 +1,15 @@
-# RRUX
-RobotReviewer User Study Analysis
+# Machine learning to help researchers evaluate biases in clinical trials: a prospective, randomized user study
+Authors: 
+[Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK
+[Thomas Trikalinos](https://vivo.brown.edu/display/ttrikali) Center for Evidence-based Medicine, Brown University, Providence, USA
+[Jo\"el Kuiper](https://joelkuiper.eu/) Vortext Systems, Groningen, Netherlands
+[Randolph G Bias](https://www.ischool.utexas.edu/~rbias/site/) School of Information, University of Texas at Austin, Austin, USA
+[Byron C Wallace](http://www.byronwallace.com/) College of Computer and Information Science, Northeastern University, Boston, USA
+[Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK
 
-data folder: 
+## Structure of the repository
+
+data folder:<br> 
               + TimeAnalysis2_1.xlsx (main data file)
               + UXData1.xlsx (old main data file - mainly including qualitative answers)
               + sus_calculation.csv (System Usability Scale data file) 
