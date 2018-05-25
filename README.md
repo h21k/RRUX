@@ -10,17 +10,19 @@ Authors:<br>
 ## Structure of the repository
 
 Data folder:<br> 
-              + `TimeAnalysis2_1.xlsx` (main data file)<br>
-              + `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
-              + `sus_calculation.csv` (System Usability Scale data)<br>
-              + `subset_selfreported.xlsx` (subset of TimeAnalysis2_1.xlsx for self reported characteristics)<br>
-              + `annotaionschanged.xlsx` (subset of TimeAnalysis2_1.xlsx for annotations analysis)<br>
-              + `agreement.xlsx` (subset of TimeAnalysis2_1.xlsx for self judgement agreement analysis)<br>
+
++ `TimeAnalysis2_1.xlsx` (main data file)<br>
++ `UXData1.xlsx` (aux data file - mainly including qualitative answers)<br>
++ `sus_calculation.csv` (System Usability Scale data)<br>
++ `subset_selfreported.xlsx` (subset of TimeAnalysis2_1.xlsx for self reported characteristics)<br>
++ `annotaionschanged.xlsx` (subset of TimeAnalysis2_1.xlsx for annotations analysis)<br>
++ `agreement.xlsx` (subset of TimeAnalysis2_1.xlsx for self judgement agreement analysis)<br>
               
 Jupyter Notebook: Analysis.ipynb<br>
-              Structure:  1. `Main Analysis` (distribution of the data, Wilcoxon significance tests, boxplots, scatterplots)<br>
-                          2. `Descriptives` (mean, sd etc of timing data)
-                          3. `Tukey Ladder of Powers` (data transformation and plots)
-                          4. `Linear Mixed Effects Model Analysis` (primary and auxiluiary model analysis)
-                          5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)
-                          6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)
+Structure:<br>  
+1. `Main Analysis` (distribution of the data, Wilcoxon significance tests, boxplots, scatterplots)<br>
+2. `Descriptives` (mean, sd etc of timing data)<br>
+3. `Tukey Ladder of Powers` (data transformation and plots)<br>
+4. `Linear Mixed Effects Model Analysis` (primary and auxiluiary model analysis)<br>
+5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)<br>
+6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)<br>
